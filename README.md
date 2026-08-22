@@ -1,12 +1,13 @@
-**# Plant Leaf Disease Classification**
+**Course Title:** Digital Image Processing(CSE-440)
+**Project Title:** - Plant Leaf Disease Classification
 
 ## Project Overview
 This project implements a binary image classification model using Digital Image Processing (DIP) techniques and a Convolutional Neural Network (CNN) / Deep Learning model to classify plant leaves as **Healthy** or **Diseased**.
 
 ## Dataset Information
-- **Source:** [Insert link to Kaggle / Hugging Face / GitHub dataset here]
+- **Source:**  Kaggle(PlantVillage)
 - **Classes:** Healthy vs. Diseased Leaf Images
-- **Total Images:** [Insert total count, e.g., ~500 images per class]
+- **Total Images:** Insert total images, 500+ images per class
 
 ## Setup & Installation
 Since this project is implemented in Google Colab, no local installation is required.
