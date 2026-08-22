@@ -24,5 +24,5 @@ Since this project is implemented in Google Colab, no local installation is requ
   (ii)Optimizer: Adam
   (iii)Epochs: [e.g., 15]
 ## Result and Output Preview
-    Training accuracy: 
-    validation accuracy:
+    Training accuracy: 97%
+    validation accuracy: 98%
