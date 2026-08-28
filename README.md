@@ -47,7 +47,37 @@ Validation data is used to monitor model performance during training.
 The project uses TensorFlow/Keras for building and training the CNN model.
 The trained model is saved as:
 best_tomato_leaf_model.keras
+## Model Evaluation
+Number of samples: 262
+Actual labels: [ 87 175]
+Predicted labels: [ 83 179]
+
+Confusion Matrix:
+[[ 83   4]
+ [  0 175]]
+Training & validation Accuracy
+Epoch	Training Accuracy	Validation Accuracy	Training Loss	Validation Loss
+0	1	0.9706	0.9570	0.0949	0.9377
+1	2	0.9677	0.9922	0.1079	0.0386
+2	3	0.9609	0.9961	0.1184	0.0111
+3	4	0.9522	0.9922	0.1327	1.6440
+4	5	0.9778	0.9961	0.0664	0.0198
+5	6	0.9802	0.9531	0.0610	1.9803
+6	7	0.9817	0.9258	0.0489	2.2490
+
 ## Result and Output Preview
-    Training accuracy: 97%
-    validation accuracy: 98%
-    sample prection: 
+    Training accuracy: 98.17%%
+    validation accuracy: 92.58%
+    Best Validation Accuracy: 99.61%
+    sample prection:   <img width="315" height="333" alt="image" src="https://github.com/user-attachments/assets/38a36e69-d063-43bb-bdd0-b65af226f113" />
+
+    img_h_108.jpg(image/jpeg) - 26620 bytes, last modified: 8/22/2026 - 100% done
+Saving img_h_108.jpg to img_h_108.jpg
+========================================
+       TOMATO LEAF PREDICTION
+========================================
+Image: img_h_108.jpg
+Predicted Class: Healthy
+Confidence: 99.99 %
+Raw Probability: 0.9999
+ 
