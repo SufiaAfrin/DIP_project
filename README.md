@@ -5,7 +5,7 @@
 This project implements a binary image classification model using Digital Image Processing (DIP) techniques and a Convolutional Neural Network (CNN) / Deep Learning model to classify plant leaves as **Healthy** or **Diseased**.
 
 ## Dataset Information
-- **Source:**  Kaggle(PlantVillage)
+- **Source:**  PlantVillage Dataset - Hugging Face(https://huggingface.co/datasets/mohanty/PlantVillage)
 - **Classes:** Healthy vs. Diseased Leaf Images
 - **Total Images:** Insert total images, 500+ images per class
 
